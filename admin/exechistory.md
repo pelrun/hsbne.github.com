@@ -45,3 +45,13 @@ Secretary (Feb '11 > May '11)
 Treasurer
 : Luke Hovington
 
+### May '09 > May '10
+
+President
+: David 'Buzz' Bussenschutt
+
+Secretary
+: James Churchill
+
+Treasurer
+: Travis Howse
